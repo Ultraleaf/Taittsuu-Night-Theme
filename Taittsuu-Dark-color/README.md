@@ -1,4 +1,5 @@
-![momo](https://github.com/Ultraleaf/Taittsuu-chrome_addon/assets/138953741/53c46e8f-2e79-41b7-8bea-eb6655645b06)
+![image](https://github.com/Ultraleaf/Taittsuu-Night-theme/assets/138953741/1307e78f-f358-4def-95b8-21d429b0b1c5)
+
 
 
 <br>
@@ -33,18 +34,9 @@
 
 7）展開して読み込みをクリックしたら、「Taittsuu color」のファイルを選択する。
 
-8）これにて完了です。タイッツーがピンク色に変化しました。
+8）これにて完了です。タイッツーがナイトモード（黒色）に変化しました。
 
 <br>
 <br>
 <br>
 <br>
-
-補足：今回このツールを作成するにあたって
-<br>
-<br>
-参考にさせていただきましたサイトです。
-<br>
-<br>
-
-https://hira.page/blog/201809_chrome-stylize
