@@ -1,4 +1,5 @@
-![image](https://github.com/Ultraleaf/Taittsuu-Night-theme/assets/138953741/1307e78f-f358-4def-95b8-21d429b0b1c5)
+![image](https://github.com/Ultraleaf/Taittsuu-Night-Theme/assets/138953741/8ea70352-2876-4fb2-a217-b72c5431d490)
+
 
 
 
