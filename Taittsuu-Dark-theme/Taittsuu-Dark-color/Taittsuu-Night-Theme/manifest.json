@@ -1,0 +1,14 @@
+ {
+   "name": "taittsuu-Dark",
+   "author": "taka sandesuyo",
+   "description": "chrome extension for taittsuu-Night-theme",
+   "version": "1.0.0",
+   "manifest_version": 3,
+   "permissions": ["storage"],
+   "content_scripts": [
+    {
+      "matches": ["https://taittsuu.com/home/*","https://taittsuu.com/setting","https://taittsuu.com/u/likes","https://taittsuu.com/u/notices","https://taittsuu.com/coupon","https://taittsuu.com/users/*","https://taittsuu.com/publictimeline/*"],
+      "css": ["taittsuu/style.css"]
+    }
+  ]
+}
